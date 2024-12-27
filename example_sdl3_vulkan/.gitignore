@@ -1,0 +1,5 @@
+include/SDL3
+lib/libSDL3.so
+lib/libSDL3.so.0
+lib/libSDL3.so.0.1.6
+build
