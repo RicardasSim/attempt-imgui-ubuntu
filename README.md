@@ -1,6 +1,6 @@
 # attempt-imgui-ubuntu
 
-Trying to use Imgui on Ubuntu
+Trying to use Imgui with Vulkan API on Ubuntu
 
 Platform: Ubuntu 24.04.1 LTS
 
