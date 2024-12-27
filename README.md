@@ -4,7 +4,7 @@ Trying to use Imgui on Ubuntu
 
 Platform: Ubuntu 24.04.1 LTS
 
-Dear ImGui (MIT) https://github.com/ocornut/imgui..
+Dear ImGui (MIT) https://github.com/ocornut/imgui  
 using v1.91.6
 
 Added CMakeLists.txt files to build glfw and sdl2 examples with system libraries, and sdl3 example with additional SDL3 includes and libraries.
