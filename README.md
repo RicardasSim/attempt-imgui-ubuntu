@@ -19,7 +19,7 @@ cmake ..
 make
 
 The SDL3 example requires additional include and library files to build.  
-Using SDL-preview-3.1.6.tar.gz from https://github.com/libsdl-org/SDL
+Using SDL-preview-3.1.6.tar.gz from https://github.com/libsdl-org/SDL (Zlib license)
 
 Build SDL3 and copy include files to example_sdl3_vulkan include directory, builded libraries to lib directory.
 
